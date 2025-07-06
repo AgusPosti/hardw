@@ -1,6 +1,6 @@
 baseURL = 'http://localhost:1313/'
 languageCode = 'es'
-title = 'Armado de PC'
+title = 'Inicio'
 theme = 'book'
 enableGitInfo = true
 defaultContentLanguage = 'es'
@@ -11,8 +11,8 @@ pagerSize = 10
   BookTheme = 'auto' # claro/oscuro/auto
   BookToC = true     # Muestra tabla de contenidos a la izquierda
   BookSection = '*'
-  BookSearch = true  # Habilita buscador interno
-  BookLogo = 'img/logo.png' # si querés poner un logo personalizado
+  BookSearch = false  # Habilita buscador interno
+  BookLogo = 'img/windows-10.png' # si querés poner un logo personalizado
 
 [markup]
   [markup.goldmark]

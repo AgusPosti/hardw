@@ -1,6 +1,6 @@
 {
-  "name": "Armado de PC",
-  "short_name": "Armado de PC",
+  "name": "Inicio",
+  "short_name": "Inicio",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
