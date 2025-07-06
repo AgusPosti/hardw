@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/cpu/</loc>
+    <loc>https://agusposti.github.io/hardw/cpu/</loc>
   </url><url>
-    <loc>http://localhost:1313/motherboard/</loc>
+    <loc>https://agusposti.github.io/hardw/motherboard/</loc>
   </url><url>
-    <loc>http://localhost:1313/gpu/</loc>
+    <loc>https://agusposti.github.io/hardw/gpu/</loc>
   </url><url>
-    <loc>http://localhost:1313/ram/</loc>
+    <loc>https://agusposti.github.io/hardw/ram/</loc>
   </url><url>
-    <loc>http://localhost:1313/almacenamiento/</loc>
+    <loc>https://agusposti.github.io/hardw/almacenamiento/</loc>
   </url><url>
-    <loc>http://localhost:1313/fuente/</loc>
+    <loc>https://agusposti.github.io/hardw/fuente/</loc>
   </url><url>
-    <loc>http://localhost:1313/refrigeracion/</loc>
+    <loc>https://agusposti.github.io/hardw/refrigeracion/</loc>
   </url><url>
-    <loc>http://localhost:1313/perifericos/</loc>
+    <loc>https://agusposti.github.io/hardw/perifericos/</loc>
   </url><url>
-    <loc>http://localhost:1313/conclusion/</loc>
+    <loc>https://agusposti.github.io/hardw/conclusion/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://agusposti.github.io/hardw/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://agusposti.github.io/hardw/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://agusposti.github.io/hardw/tags/</loc>
   </url>
 </urlset>
