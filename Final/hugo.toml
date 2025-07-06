@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = "https://agusposti.github.io/hardw/"
 languageCode = 'es'
 title = 'Inicio'
 theme = 'book'
